@@ -1,0 +1,20 @@
+{
+    "python.pythonPath": "C:\\Users\\micah\\.virtualenvs\taxi-app-4kj5MO7y\\Scripts\\python.exe",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vscode-icons",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    },
+	"terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+	"folders": [
+        {
+            "path": "."
+        }
+    ],
+}
